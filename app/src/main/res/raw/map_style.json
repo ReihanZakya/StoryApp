@@ -1,0 +1,29 @@
+[
+  {
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#0055ff"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "color": "#25f8e0"
+      },
+      {
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#0d3487"
+      }
+    ]
+  }
+]
